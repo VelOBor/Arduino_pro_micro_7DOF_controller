@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "210225-181717-nanoatmega328",
+			"path": "."
+		}
+	],
+	"settings": {
+		monitor_speed(115200)
+	}
+}
